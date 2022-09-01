@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ch-nps-august-22/static/css/main.ee7ac53e.css",
+    "main.js": "/ch-nps-august-22/static/js/main.8bcf6419.js",
+    "static/js/787.de467b73.chunk.js": "/ch-nps-august-22/static/js/787.de467b73.chunk.js",
+    "index.html": "/ch-nps-august-22/index.html",
+    "main.ee7ac53e.css.map": "/ch-nps-august-22/static/css/main.ee7ac53e.css.map",
+    "main.8bcf6419.js.map": "/ch-nps-august-22/static/js/main.8bcf6419.js.map",
+    "787.de467b73.chunk.js.map": "/ch-nps-august-22/static/js/787.de467b73.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee7ac53e.css",
+    "static/js/main.8bcf6419.js"
+  ]
+}
