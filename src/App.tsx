@@ -52,7 +52,7 @@ const App = () => {
           </tbody>
         </table>
         <div className="absolute right-0 top-0 text-xs">
-          Actualizado: 02/09/2022 10:45
+          Actualizado: 02/09/2022 13:10
         </div>
       </div>
 
